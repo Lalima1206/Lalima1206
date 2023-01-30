@@ -8,9 +8,6 @@
 <h4 align="center">I am pursing B.Tech. in CSE. <h4>
 <br>
 
-## 🔥 Streak Stats
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArnavO3&theme=algolia" alt="Lalima" /></p>
 
 ## 🛠️ My Skills
 
@@ -75,28 +72,6 @@
 <br/>
 
 ## 📊 Github Stats (Expand to View)
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/ArnavO3"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ArnavO3&show_icons=true&locale=en&theme=algolia" alt="Arnav" height="192px"/></a>
-	</p>
-	<p  align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArnavO3&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Arnav" height="192px"/>
-	</p>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-
-  </details>
-
-<br/>
 
 ## 🙋‍♀️ Let's Connect
 
